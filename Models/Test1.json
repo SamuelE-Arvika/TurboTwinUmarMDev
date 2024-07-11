@@ -3,6 +3,18 @@
 	"@type": "Interface",
 	"contents": [
 		{
+			"@type": "Property",
+			"name": "TestPropString",
+			"schema": "string",
+			"writable": true
+		},
+		{
+			"@type": "Property",
+			"name": "TestPropInt",
+			"schema": "integer",
+			"writable": true
+		},
+		{
 			"@type": "Component",
 			"name": "TurboTwinComponent",
 			"schema": "dtmi:ArvikaSoft:TurboTwinComponent;1"

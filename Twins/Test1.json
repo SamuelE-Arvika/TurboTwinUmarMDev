@@ -1,0 +1,23 @@
+{
+	"$dtId": "Test1",
+	"TestPropInt": 123,
+	"TestPropString": "TestString",
+	"TurboTwinComponent":
+	{
+		"$metadata":
+		{
+		},
+		"geoLocation":
+		{
+			"type": "Point",
+			"coordinates": [ 0, 0, 0 ]
+		},
+		"PollTimer":
+		{
+		}
+	},
+	"$metadata":
+	{
+		"$model": "dtmi:ArvikaSoft:Test1;1"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$dtId": "Test4",
+	"$etag": "W/\"0e384e7a-a0fc-4d26-a52c-bb2c10c1e311\"",
+	"TurboTwinComponent":
+	{
+		"geoLocation":
+		{
+			"type": "Point",
+			"coordinates": [ 0, 0, 0 ]
+		},
+		"PollTimer":
+		{
+		},
+		"$metadata":
+		{
+			"geoLocation":
+			{
+				"lastUpdateTime": "2024-07-07T12:16:57.3815052Z"
+			},
+			"PollTimer":
+			{
+				"lastUpdateTime": "2024-07-07T12:16:57.3815052Z"
+			}
+		}
+	},
+	"$metadata":
+	{
+		"$model": "dtmi:ArvikaSoft:Test1;1"
+	}
+}
