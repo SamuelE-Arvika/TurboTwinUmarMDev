@@ -1,7 +1,8 @@
 {
 	"$dtId": "Test1",
-	"TestPropInt": 123,
-	"TestPropString": "TestString",
+	"TestPropString": "TEST1",
+	"TestPropInt": 1,
+	"TestPropBool": false,
 	"TurboTwinComponent":
 	{
 		"$metadata":

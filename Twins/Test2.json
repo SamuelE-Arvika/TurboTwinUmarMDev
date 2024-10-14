@@ -1,8 +1,13 @@
 {
 	"$dtId": "Test2",
-	"$etag": "W/\"eeb9aeb2-91d4-45ab-a968-fd83c98eb9a2\"",
+	"TestPropString": "TEST2",
+	"TestPropInt": 255,
+	"TestPropBool": true,
 	"TurboTwinComponent":
 	{
+		"$metadata":
+		{
+		},
 		"geoLocation":
 		{
 			"type": "Point",
@@ -10,17 +15,6 @@
 		},
 		"PollTimer":
 		{
-		},
-		"$metadata":
-		{
-			"geoLocation":
-			{
-				"lastUpdateTime": "2024-07-07T12:12:48.4015631Z"
-			},
-			"PollTimer":
-			{
-				"lastUpdateTime": "2024-07-07T12:12:48.4015631Z"
-			}
 		}
 	},
 	"$metadata":

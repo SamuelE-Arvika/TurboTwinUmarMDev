@@ -1,5 +1,8 @@
 {
 	"$dtId": "test5",
+	"TestPropString": "TEST5",
+	"TestPropInt": 5,
+	"TestPropBool": true,
 	"TurboTwinComponent":
 	{
 		"$metadata":

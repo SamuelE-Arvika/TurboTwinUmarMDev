@@ -15,6 +15,90 @@
 			"writable": true
 		},
 		{
+			"displayName":
+			{
+				"en": "TestBool"
+			},
+			"@type": "Property",
+			"name": "TestPropBool",
+			"schema": "boolean",
+			"writable": true
+		},
+		{
+			"displayName":
+			{
+				"en": "TestDate"
+			},
+			"@type": "Property",
+			"name": "TestDateProp",
+			"schema": "date",
+			"writable": true
+		},
+		{
+			"displayName":
+			{
+				"en": "TestDuration"
+			},
+			"@type": "Property",
+			"name": "TestPropDuration",
+			"schema": "duration",
+			"writable": true
+		},
+		{
+			"displayName":
+			{
+				"en": "TestDouble"
+			},
+			"@type": "Property",
+			"name": "TestPropDouble",
+			"schema": "double",
+			"writable": true
+		},
+		{
+			"displayName":
+			{
+				"en": "TestFloat"
+			},
+			"@type": "Property",
+			"name": "TestPropFloat",
+			"schema": "float",
+			"writable": true
+		},
+		{
+			"displayName":
+			{
+				"en": "TestArray"
+			},
+			"@type": "Property",
+			"name": "TestArrayProp",
+			"schema":
+			{
+				"@type": "Array",
+				"elementSchema": "integer"
+			},
+			"writable": false
+		},
+		{
+			"displayName":
+			{
+				"en": "TestTime"
+			},
+			"@type": "Property",
+			"name": "TestTimeProp",
+			"schema": "time",
+			"writable": false
+		},
+		{
+			"displayName":
+			{
+				"en": "TestMap"
+			},
+			"@type": "Property",
+			"name": "TestMapProp",
+			"schema": "",
+			"writable": false
+		},
+		{
 			"@type": "Component",
 			"name": "TurboTwinComponent",
 			"schema": "dtmi:ArvikaSoft:TurboTwinComponent;1"
@@ -22,7 +106,7 @@
 	],
 	"displayName":
 	{
-		"en": "TestModel"
+		"en": "TestModel2"
 	},
 	"@context": [
 		"dtmi:dtdl:context;3"
