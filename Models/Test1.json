@@ -122,6 +122,16 @@
 			"name": "TestTelemetry1",
 			"schema": "boolean",
 			"writable": true
+		},
+		{
+			"displayName":
+			{
+				"en": "TestTelemetry2"
+			},
+			"@type": "Telemetry",
+			"name": "TestTelem2",
+			"schema": "float",
+			"writable": true
 		}
 	],
 	"displayName":
