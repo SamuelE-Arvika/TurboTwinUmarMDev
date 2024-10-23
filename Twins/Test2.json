@@ -11,10 +11,12 @@
 		"geoLocation":
 		{
 			"type": "Point",
-			"coordinates": [ 0, 0, 0 ]
+			"coordinates": [ -105.32184600830078, 39.609561920166016, 7070.42041015625 ]
 		},
 		"PollTimer":
 		{
+			"TestPropString": 2.280708773523714e-27,
+			"TestPropBool": 9.8090892502737195e-45
 		}
 	},
 	"$metadata":
