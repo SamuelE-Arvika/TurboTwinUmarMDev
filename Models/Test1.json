@@ -122,46 +122,6 @@
 			"name": "TestTelemetry1",
 			"schema": "boolean",
 			"writable": true
-		},
-		{
-			"displayName":
-			{
-				"en": "TestTelem"
-			},
-			"@type": "Telemetry",
-			"name": "TestTelemetry1",
-			"schema": "boolean",
-			"writable": true
-		},
-		{
-			"displayName":
-			{
-				"en": "TestTelem"
-			},
-			"@type": "Telemetry",
-			"name": "TestTelemetry1",
-			"schema": "boolean",
-			"writable": true
-		},
-		{
-			"displayName":
-			{
-				"en": "TestTelem"
-			},
-			"@type": "Telemetry",
-			"name": "TestTelemetry1",
-			"schema": "boolean",
-			"writable": true
-		},
-		{
-			"displayName":
-			{
-				"en": "TestTelem"
-			},
-			"@type": "Telemetry",
-			"name": "TestTelemetry1",
-			"schema": "boolean",
-			"writable": true
 		}
 	],
 	"displayName":
