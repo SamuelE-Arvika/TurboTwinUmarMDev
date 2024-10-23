@@ -1,0 +1,26 @@
+{
+	"$dtId": "Test4",
+	"TestPropString": "TEST4",
+	"TestPropInt": 4,
+	"TestPropBool": true,
+	"TurboTwinComponent":
+	{
+		"$metadata":
+		{
+		},
+		"geoLocation":
+		{
+			"type": "Point",
+			"coordinates": [ -5.051101138915659e-13, -1.6518818648017519e-12, -1.3969838619232178e-08 ]
+		},
+		"PollTimer":
+		{
+			"TestPropString": 4.5081875742261844e-35,
+			"TestPropBool": 9.8090892502737195e-45
+		}
+	},
+	"$metadata":
+	{
+		"$model": "dtmi:ArvikaSoft:Test1;1"
+	}
+}

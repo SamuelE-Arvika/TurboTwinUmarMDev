@@ -107,11 +107,6 @@
 			"name": "TestBool2",
 			"schema": "boolean",
 			"writable": false
-		},
-		{
-			"@type": "Component",
-			"name": "TurboTwinComponent",
-			"schema": "dtmi:ArvikaSoft:TurboTwinComponent;1"
 		}
 	],
 	"displayName":
