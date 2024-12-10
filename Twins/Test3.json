@@ -3,6 +3,9 @@
 	"TestPropString": "TEST3",
 	"TestPropInt": 3,
 	"TestPropBool": false,
+	"TestPropDouble": 0.1212100014090538,
+	"TestPropFloat": 0.0015399999683722854,
+	"TestPropDuration": 45456,
 	"TurboTwinComponent":
 	{
 		"$metadata":
@@ -11,12 +14,10 @@
 		"geoLocation":
 		{
 			"type": "Point",
-			"coordinates": [ -5.051101138915659e-13, -1.6518818648017519e-12, -1.3969838619232178e-08 ]
+			"coordinates": [ 0, 0, 0 ]
 		},
 		"PollTimer":
 		{
-			"TestPropString": 2.280708773523714e-27,
-			"TestPropBool": 9.8090892502737195e-45
 		}
 	},
 	"$metadata":

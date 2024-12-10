@@ -95,7 +95,7 @@
 			},
 			"@type": "Property",
 			"name": "TestMapProp",
-			"schema": "",
+			"schema": "integer",
 			"writable": false
 		},
 		{
@@ -120,8 +120,7 @@
 			},
 			"@type": "Telemetry",
 			"name": "TestTelemetry1",
-			"schema": "boolean",
-			"writable": true
+			"schema": "boolean"
 		},
 		{
 			"displayName":
@@ -130,8 +129,16 @@
 			},
 			"@type": "Telemetry",
 			"name": "TestTelem2",
-			"schema": "float",
-			"writable": true
+			"schema": "float"
+		},
+		{
+			"displayName":
+			{
+				"en": "TestTelem3"
+			},
+			"@type": "Telemetry",
+			"name": "TestTelemetry3",
+			"schema": "float"
 		}
 	],
 	"displayName":
