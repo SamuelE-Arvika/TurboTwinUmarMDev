@@ -6,25 +6,25 @@
 			"@type": "Property",
 			"name": "geoLocation",
 			"schema": "point",
-			"writable": false
+			"writable": true
 		},
 		{
 			"@type": "Property",
 			"name": "geoLocationPolygon",
 			"schema": "polygon",
-			"writable": false
+			"writable": true
 		},
 		{
 			"@type": "Property",
 			"name": "geoLocationPolygonHeight",
 			"schema": "float",
-			"writable": false
+			"writable": true
 		},
 		{
 			"@type": "Property",
 			"name": "ActorQueryString",
 			"schema": "string",
-			"writable": false
+			"writable": true
 		},
 		{
 			"@type": "Property",
